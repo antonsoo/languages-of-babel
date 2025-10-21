@@ -75,28 +75,28 @@ See `CONTRIBUTING.md` (coming soon) for guidelines.
 
 ## Roadmap
 
-### MVP (Months 0-6)
+### MVP (Weeks 3-5)
 - Single-player prototype with one language (Spanish or French)
 - Basic city navigation
 - 10 AI NPCs with conversational capability
 - Simple combat system with vocabulary-based spells
 - Core progression: Outer City → Inner City
 
-### Alpha (Months 6-12)
+### Alpha (Weeks 5-10)
 - Multiplayer support (5 languages)
 - Full Tower climbing mechanic
 - Economy and item system
 - 50+ quests
 - Basic image generation for items/characters
 
-### Beta (Months 12-18)
+### Beta (Weeks 10-12)
 - 20+ languages across all categories
 - Guild system and co-op dungeons
 - AI video generation for cutscenes
 - Modding tools
 - Competitive PvP modes
 
-### V1.0 (Months 18-24)
+### V1.0 (Weeks 12-15)
 - 50+ languages
 - Full MMO features (raids, world events, seasonal content)
 - Mobile and desktop clients
@@ -114,8 +114,8 @@ MIT License - see `LICENSE` file
 
 ## Contact
 
-- Discussions: [GitHub Discussions](https://github.com/YOUR_USERNAME/languages-of-babel/discussions)
-- Discord: Coming soon
+- Discussions: [GitHub Discussions](https://github.com/antonsoo/languages-of-babel/discussions)
+- [Discord](https://discord.gg/fMkF4Yza6B)
 - Twitter: Coming soon
 
 ---
